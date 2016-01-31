@@ -1,2 +1,3 @@
-# rust-book
-Working through the Rust book
+# rust-snippets
+Snippets in an attempt to learn Rust
+
